@@ -1,0 +1,147 @@
+[{
+    "titnotice": [{
+        "centertit": "闭馆公告",
+        "centercon": "各位观众：根据北京市疫情防控最新形势，为进一步降低人员流动带来疫情社会面传播风险，故宫博物院将于2022年5月12日起暂时闭馆，开放时间另行通知。",
+        "btn": "详细内容"
+    }],
+    "textcontent": [{
+        "title": [{
+            "titleft": "https://img.dpm.org.cn/Public/static/themes/image/public-icon1.png",
+            "t1": "故宫",
+            "t2": "资讯",
+            "t3": "开放",
+            "t4": "公告",
+            "titright": "https://img.dpm.org.cn/Public/static/themes/image/public-icon2.png"
+        }],
+        "con1List": [{
+                "id": "001",
+                "title": "【声明】故宫博物院关于“数字藏品”的声明",
+                "imgUrl": "https://img.dpm.org.cn/Public/static/themes/image/lyc/index-icon2-1.png"
+            },
+            {
+                "id": "002",
+                "title": "【严正声明】关于我院依法对“故宫博物院”享有名称权和对已注册商标的商标专用权的严正声明",
+                "imgUrl": "https://img.dpm.org.cn/Public/static/themes/image/lyc/index-icon2-1.png"
+            },
+            {
+                "id": "003",
+                "title": "【声明】关于故宫博物院在职、离退休人员参加社会文物鉴定等公务性活动的声明",
+                "imgUrl": "https://img.dpm.org.cn/Public/static/themes/image/lyc/index-icon2-1.png"
+            }
+        ],
+        "con2List": [
+            "儿童节四川甘孜150所乡村学校收到故宫礼物",
+            "故宫博物院三大线上项目诠释“博物馆的力量”",
+            "胡德生自述：我在故宫三十年",
+            "沉痛悼念著名文物专家谢辰生先生",
+            "关于中国-希腊文物保护技术“一带一路” 联合实验室仪器设备开放共享的通知",
+            "胡和平：推动文化和旅游高质量发展"
+        ]
+    }],
+    "closenotice": [{
+        "info": [{
+            "time": "2022 / 6 / 4",
+            "title1": "今日闭馆",
+            "p": "除法定节假日，故宫博物院全年实行周一闭馆",
+            "strongp": "故宫博物院于2022年5月12日起暂时闭馆，开放时间另行通知"
+        }],
+        "timeInfo": [{
+                "id": "001",
+                "h1": "08:30",
+                "text": "开放入馆时间"
+            },
+            {
+                "id": "002",
+                "h1": "16:10",
+                "text": "停止入馆时间"
+            },
+            {
+                "id": "003",
+                "h1": "17:00",
+                "text": "闭馆时间"
+            }
+        ]
+    }],
+    "orderList": [{
+        "ordercomp": {
+            "img": "https://img.dpm.org.cn/Uploads/Picture/2022/03/17/s6232d731689f6.png",
+            "name": "电脑订票"
+        },
+        "orderline": {
+            "img": [
+                "https://img.dpm.org.cn/Uploads/Picture/2022/04/07/s624e7a21680f0.png",
+                "https://img.dpm.org.cn/Uploads/Picture/2022/04/07/s624e7a40ec1f2.png"
+            ],
+            "name": "在线订票"
+        }
+    }],
+    "telList": [{
+        "title": "票务客服电话",
+        "time": "服务时间：8:30 — 17:30",
+        "telephone": [
+            "010-85007057",
+            "010-85007058",
+            "010-85007062",
+            "010-85007063",
+            "010-85007966",
+            "010-85007970",
+            "010-85007967",
+            "010-85007968"
+        ]
+    }],
+    "lineList": [{
+            "id": "001",
+            "imgUrl": "https://img.dpm.org.cn/Uploads/Picture/2022/05/10/s627a31a045d39.png",
+            "name": "交通路线"
+        },
+        {
+            "id": "002",
+            "imgUrl": "https://img.dpm.org.cn/Uploads/Picture/2022/05/10/s627a317a2854b.png",
+            "name": "浏览须知"
+        },
+        {
+            "id": "003",
+            "imgUrl": "https://img.dpm.org.cn/Uploads/Picture/2022/05/10/s627a32d9e5e85.png",
+            "name": " 导览地图"
+        },
+        {
+            "id": "004",
+            "imgUrl": "https://img.dpm.org.cn/Uploads/Picture/2022/05/10/s627a327e8a13c.png",
+            "name": "全景故宫"
+        }
+    ],
+    "noticeList": [{
+        "con1": [{
+                "id": "001",
+                "img": "https://img.dpm.org.cn/Public/static/themes/image/lyc/index-icon2-1.png",
+                "title": "故宫博物院关于暂停城墙开放的公告"
+            },
+            {
+                "id": "002",
+                "img": "https://img.dpm.org.cn/Public/static/themes/image/lyc/index-icon2-1.png",
+                "title": "故宫博物院实行全部网络购票"
+            }
+        ],
+        "con2": [{
+                "id": "001",
+                "time": "2022 / 05 / 11",
+                "name": "闭馆公告"
+            },
+            {
+                "id": "002",
+                "time": "2022 / 05 / 02",
+                "name": "关于关闭室内展厅的公告"
+            },
+            {
+                "id": "003",
+                "time": "2022 / 04 / 30",
+                "name": "关于持核酸阴性证明入院参观的公告"
+            },
+            {
+                "id": "004",
+                "time": "2022 / 03 / 25",
+                "name": "故宫博物院实行旺季开放时间与票价"
+            }
+        ]
+    }]
+}]

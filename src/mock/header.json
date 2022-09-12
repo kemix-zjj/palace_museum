@@ -1,0 +1,224 @@
+[{
+    "headerList": [{
+            "name": "首页",
+            "toUrl": "/",
+            "isShow": "",
+            "options": []
+
+        },
+        {
+            "name": "导览",
+            "toUrl": "https://www.dpm.org.cn/Visit.html",
+            "isShow": "",
+            "options": [{
+                    "op": "开放时间",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "在线订票",
+                    "toUrl": "###"
+
+                },
+                {
+                    "op": "交通路线",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "游览须知",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "全景故宫",
+                    "toUrl": "###"
+                }
+
+            ]
+
+        },
+        {
+            "name": "展览",
+            "toUrl": "https://www.dpm.org.cn/shows.html",
+            "isShow": "",
+            "options": [{
+                    "op": "近期展览",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "专馆",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "原状陈列",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "赴外展览",
+                    "toUrl": "###"
+                }
+            ]
+        },
+        {
+            "name": "教育",
+            "toUrl": "https://www.dpm.org.cn/Events.html",
+            "isShow": "",
+            "options": [{
+                    "op": "教育新闻",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "故宫讲坛",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "书画考级",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "故宫博物院教育中心",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "国际博协培训中心",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "故宫志愿者",
+                    "toUrl": "###"
+                }
+
+            ]
+        },
+        {
+            "name": "探索",
+            "toUrl": "https://www.dpm.org.cn/Explore.html",
+            "isShow": "",
+            "options": [{
+                    "op": "建筑",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "藏品",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "古籍",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "宫廷历史",
+                    "toUrl": "/detail"
+                },
+                {
+                    "op": "文物医院",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "文化专题",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "名画记",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "数字多宝阁",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "数字文物库",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "藏品总目",
+                    "toUrl": "###"
+                }
+            ]
+        },
+        {
+            "name": "学术",
+            "toUrl": "https://www.dpm.org.cn/Research.html",
+            "isShow": "",
+            "options": [{
+                    "op": "学术资讯",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "专家名录",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "故宫研究院",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "故宫学院",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "其他学术机构",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "故宫博物院院刊",
+                    "toUrl": "###"
+                }
+            ]
+        },
+        {
+            "name": "文创",
+            "toUrl": "https://www.dpm.org.cn/Creative.html",
+            "isShow": "",
+            "options": [{
+                    "op": "故宫出版",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "文创产品",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "故宫壁纸",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "故宫APP",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "故宫游戏",
+                    "toUrl": "###"
+                }
+            ]
+        },
+        {
+            "name": "关于",
+            "toUrl": "https://www.dpm.org.cn/About.html",
+            "isShow": "",
+            "options": [{
+                    "op": "总说",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "领导",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "资讯",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "院史编年",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "景仁榜",
+                    "toUrl": "###"
+                },
+                {
+                    "op": "机构设置",
+                    "toUrl": "###"
+                }
+            ]
+        }
+    ]
+}]
